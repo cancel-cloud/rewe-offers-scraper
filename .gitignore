@@ -1,0 +1,7 @@
+.worktrees/
+node_modules/
+dist/
+offers.json
+output/
+outputs/
+.playwright-cli/
